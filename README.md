@@ -46,10 +46,12 @@ It is built on Apple's modern Core Audio process-tap API, so unlike older booste
 
 ## Pricing
 
-| Plan | Price | Macs |
-|------|-------|------|
-| **Pro** | £39 one-time | 1-2 |
-| **Family** | £59 one-time | up to 5 |
+**Limited launch pricing - save £20 on every plan.**
+
+| Plan | Launch price | Macs |
+|------|--------------|------|
+| **Pro** | ~~£59~~ **£39** one-time | 1-2 |
+| **Family** | ~~£79~~ **£59** one-time | up to 5 |
 
 Every plan is a one-time purchase with free updates. There is a **3-day free trial**, no card required. → [See pricing](https://vlumeaudio.com/#pricing)
 
